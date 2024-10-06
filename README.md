@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del prepcourse de Henery
+Este proyecto esuna prueba de como crear un repositorio
